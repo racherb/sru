@@ -19,10 +19,18 @@ In order to help reflection, I will ask a more specific question on this subject
 What would you do if you had the opportunity to prevent the source code you release under an open source license from being used by third parties to generate an intelligent weapon of destruction or simply for military purposes?
 
 > At this point I wonder what Albert Einstein would have done if he had had a license that would condition the socially responsible use of his most famous discovery of the equivalence between mass and energy (E=mc2)?
+> 
+> -- Knowing the final story, he would possibly have said, "*Publish under Socially Responsible Use license*".
 
-> Knowing the final story, he would possibly have said, "Publish under Socially Responsible Use license.
+### Open-ended question to companies developing IA
+
+We know about the general concern and leadership that companies like *Google*, *Microsoft*, *OpenIA*, *Amazon*, *Facebook*, among others, have openly expressed regarding the need to regulate artificial intelligence. I wonder if they would be willing to take a more active step and adopt the SRU License option in their current licensing forms.
+
+> Society at large expects leading software used to generate artificial intelligence, such as *Tensorflow*, *Torch*, *Caffe*, *Theano*, *R*, *Python* and others, to adopt an SRU-based form of licensing.
 
 # Table of Contents
+
+  (...)
 
 
 
